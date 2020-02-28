@@ -12,6 +12,7 @@
     'summary': 'VAT report for importing in iTAX',
     'description': """
     """,
+    'images': ['static/description/OCP.png'],
     'author': 'OCP',
     'website': 'www.ocp.co,ke',
     'price': 76.09,
