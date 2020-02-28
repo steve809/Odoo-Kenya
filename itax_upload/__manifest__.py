@@ -14,6 +14,8 @@
     """,
     'author': 'OCP',
     'website': 'www.ocp.co,ke',
+    'price': 84,
+    'currency': 'EUR',
     'category': 'Reports',
     'depends': ['account'],
     'data': [
